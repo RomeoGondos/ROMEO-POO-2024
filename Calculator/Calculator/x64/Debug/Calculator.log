@@ -1,0 +1,348 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  Calculator.cpp
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(7,34): error C2039: 'Forms': is not a member of 'System::Windows'
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(7,34): error C2871: 'Forms': a namespace with this name does not exist
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(10,35): error C2504: 'Form': base class undefined
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(19,12): error C2143: syntax error: missing ';' before '^'
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(19,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(19,21): error C2238: unexpected token(s) preceding ';'
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(66,34): error C2061: syntax error: identifier 'Point'
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(33,15): error C2882: 'Text': illegal use of namespace identifier in expression
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(34,15): error C2039: 'Size': is not a member of 'CalculatorForm'
+  (compiling source file '/Calculator.cpp')
+  C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(10,11):
+  see declaration of 'CalculatorForm'
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(34,39): error C2039: 'Size': is not a member of 'System::Drawing'
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(34,39): error C3861: 'Size': identifier not found
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(35,15): error C2039: 'StartPosition': is not a member of 'CalculatorForm'
+  (compiling source file '/Calculator.cpp')
+  C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(10,11):
+  see declaration of 'CalculatorForm'
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(35,31): error C2653: 'FormStartPosition': is not a class or namespace name
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(35,50): error C2065: 'CenterScreen': undeclared identifier
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(36,15): error C2039: 'FormBorderStyle': is not a member of 'CalculatorForm'
+  (compiling source file '/Calculator.cpp')
+  C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(10,11):
+  see declaration of 'CalculatorForm'
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(36,33): error C2653: 'FormBorderStyle': is not a class or namespace name
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(36,50): error C2065: 'FixedSingle': undeclared identifier
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(39,9): error C2065: 'textBox': undeclared identifier
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(39,25): error C2061: syntax error: identifier 'TextBox'
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(40,9): error C2065: 'textBox': undeclared identifier
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(40,29): error C3861: 'Point': identifier not found
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(41,9): error C2065: 'textBox': undeclared identifier
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(41,34): error C2039: 'Size': is not a member of 'System::Drawing'
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(41,34): error C3861: 'Size': identifier not found
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(42,9): error C2065: 'textBox': undeclared identifier
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(43,15): error C2039: 'Controls': is not a member of 'CalculatorForm'
+  (compiling source file '/Calculator.cpp')
+  C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(10,11):
+  see declaration of 'CalculatorForm'
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(43,29): error C2065: 'textBox': undeclared identifier
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(46,24): error C3861: 'Point': identifier not found
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(46,9): error C2660: 'CalculatorForm::AddButton': function does not take 2 arguments
+  (compiling source file '/Calculator.cpp')
+  C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(66,10):
+  see declaration of 'CalculatorForm::AddButton'
+  C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(46,9):
+  while trying to match the argument list '(const char [2], unknown-type)'
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(47,24): error C3861: 'Point': identifier not found
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(47,9): error C2660: 'CalculatorForm::AddButton': function does not take 2 arguments
+  (compiling source file '/Calculator.cpp')
+  C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(66,10):
+  see declaration of 'CalculatorForm::AddButton'
+  C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(47,9):
+  while trying to match the argument list '(const char [2], unknown-type)'
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(48,24): error C3861: 'Point': identifier not found
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(48,9): error C2660: 'CalculatorForm::AddButton': function does not take 2 arguments
+  (compiling source file '/Calculator.cpp')
+  C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(66,10):
+  see declaration of 'CalculatorForm::AddButton'
+  C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(48,9):
+  while trying to match the argument list '(const char [2], unknown-type)'
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(49,24): error C3861: 'Point': identifier not found
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(49,9): error C2660: 'CalculatorForm::AddButton': function does not take 2 arguments
+  (compiling source file '/Calculator.cpp')
+  C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(66,10):
+  see declaration of 'CalculatorForm::AddButton'
+  C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(49,9):
+  while trying to match the argument list '(const char [2], unknown-type)'
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(50,24): error C3861: 'Point': identifier not found
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(50,9): error C2660: 'CalculatorForm::AddButton': function does not take 2 arguments
+  (compiling source file '/Calculator.cpp')
+  C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(66,10):
+  see declaration of 'CalculatorForm::AddButton'
+  C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(50,9):
+  while trying to match the argument list '(const char [2], unknown-type)'
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(51,24): error C3861: 'Point': identifier not found
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(51,9): error C2660: 'CalculatorForm::AddButton': function does not take 2 arguments
+  (compiling source file '/Calculator.cpp')
+  C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(66,10):
+  see declaration of 'CalculatorForm::AddButton'
+  C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(51,9):
+  while trying to match the argument list '(const char [2], unknown-type)'
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(52,24): error C3861: 'Point': identifier not found
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(52,9): error C2660: 'CalculatorForm::AddButton': function does not take 2 arguments
+  (compiling source file '/Calculator.cpp')
+  C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(66,10):
+  see declaration of 'CalculatorForm::AddButton'
+  C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(52,9):
+  while trying to match the argument list '(const char [2], unknown-type)'
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(53,24): error C3861: 'Point': identifier not found
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(53,9): error C2660: 'CalculatorForm::AddButton': function does not take 2 arguments
+  (compiling source file '/Calculator.cpp')
+  C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(66,10):
+  see declaration of 'CalculatorForm::AddButton'
+  C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(53,9):
+  while trying to match the argument list '(const char [2], unknown-type)'
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(54,24): error C3861: 'Point': identifier not found
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(54,9): error C2660: 'CalculatorForm::AddButton': function does not take 2 arguments
+  (compiling source file '/Calculator.cpp')
+  C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(66,10):
+  see declaration of 'CalculatorForm::AddButton'
+  C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(54,9):
+  while trying to match the argument list '(const char [2], unknown-type)'
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(55,24): error C3861: 'Point': identifier not found
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(55,9): error C2660: 'CalculatorForm::AddButton': function does not take 2 arguments
+  (compiling source file '/Calculator.cpp')
+  C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(66,10):
+  see declaration of 'CalculatorForm::AddButton'
+  C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(55,9):
+  while trying to match the argument list '(const char [2], unknown-type)'
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(57,24): error C3861: 'Point': identifier not found
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(57,9): error C2660: 'CalculatorForm::AddButton': function does not take 2 arguments
+  (compiling source file '/Calculator.cpp')
+  C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(66,10):
+  see declaration of 'CalculatorForm::AddButton'
+  C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(57,9):
+  while trying to match the argument list '(const char [2], unknown-type)'
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(58,24): error C3861: 'Point': identifier not found
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(58,9): error C2660: 'CalculatorForm::AddButton': function does not take 2 arguments
+  (compiling source file '/Calculator.cpp')
+  C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(66,10):
+  see declaration of 'CalculatorForm::AddButton'
+  C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(58,9):
+  while trying to match the argument list '(const char [2], unknown-type)'
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(59,24): error C3861: 'Point': identifier not found
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(59,9): error C2660: 'CalculatorForm::AddButton': function does not take 2 arguments
+  (compiling source file '/Calculator.cpp')
+  C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(66,10):
+  see declaration of 'CalculatorForm::AddButton'
+  C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(59,9):
+  while trying to match the argument list '(const char [2], unknown-type)'
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(60,24): error C3861: 'Point': identifier not found
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(60,9): error C2660: 'CalculatorForm::AddButton': function does not take 2 arguments
+  (compiling source file '/Calculator.cpp')
+  C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(66,10):
+  see declaration of 'CalculatorForm::AddButton'
+  C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(60,9):
+  while trying to match the argument list '(const char [2], unknown-type)'
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(61,24): error C3861: 'Point': identifier not found
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(61,49): error C2039: 'Size': is not a member of 'System::Drawing'
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(61,49): error C3861: 'Size': identifier not found
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(61,9): error C2660: 'CalculatorForm::AddButton': function does not take 3 arguments
+  (compiling source file '/Calculator.cpp')
+  C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(66,10):
+  see declaration of 'CalculatorForm::AddButton'
+  C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(61,9):
+  while trying to match the argument list '(const char [2], unknown-type, unknown-type)'
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(62,24): error C3861: 'Point': identifier not found
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(62,50): error C2039: 'Size': is not a member of 'System::Drawing'
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(62,50): error C3861: 'Size': identifier not found
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(62,9): error C2660: 'CalculatorForm::AddButton': function does not take 3 arguments
+  (compiling source file '/Calculator.cpp')
+  C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(66,10):
+  see declaration of 'CalculatorForm::AddButton'
+  C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(62,9):
+  while trying to match the argument list '(const char [2], unknown-type, unknown-type)'
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(68,9): error C2065: 'Button': undeclared identifier
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(68,17): error C2065: 'button': undeclared identifier
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(68,32): error C2061: syntax error: identifier 'Button'
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(69,9): error C2065: 'button': undeclared identifier
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(70,9): error C2065: 'button': undeclared identifier
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(70,28): error C2065: 'location': undeclared identifier
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(71,9): error C2065: 'button': undeclared identifier
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(71,24): error C2065: 'size': undeclared identifier
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(72,9): error C2065: 'button': undeclared identifier
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(73,15): error C2039: 'Controls': is not a member of 'CalculatorForm'
+  (compiling source file '/Calculator.cpp')
+  C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(10,11):
+  see declaration of 'CalculatorForm'
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(73,29): error C2065: 'button': undeclared identifier
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(79,9): error C2065: 'Button': undeclared identifier
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(79,17): error C2065: 'button': undeclared identifier
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(79,36): error C2065: 'Button': undeclared identifier
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(79,1): error C2059: syntax error: '>'
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(79,26): error C2062: type 'unknown-type' unexpected
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(80,30): error C2065: 'button': undeclared identifier
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(90,32): error C2039: 'IsEmpty': is not a member of 'System::String'
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(115,32): error C2039: 'IsEmpty': is not a member of 'System::String'
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(118,41): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(129,9): error C2065: 'textBox': undeclared identifier
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(136,5): error C2653: 'Application': is not a class or namespace name
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(136,18): error C3861: 'EnableVisualStyles': identifier not found
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(137,5): error C2653: 'Application': is not a class or namespace name
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(137,18): error C3861: 'SetCompatibleTextRenderingDefault': identifier not found
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(138,5): error C2653: 'Application': is not a class or namespace name
+  (compiling source file '/Calculator.cpp')
+  
+C:\Users\gondo\source\repos\Calculator\Calculator\Calculator.cpp(138,18): error C3861: 'Run': identifier not found
+  (compiling source file '/Calculator.cpp')
+  
+  Generating Code...
